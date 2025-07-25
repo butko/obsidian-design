@@ -48,9 +48,51 @@
               "icon": "lucide-file",
               "title": "Midjourney"
             }
+          },
+          {
+            "id": "edef5869f94fd276",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Термины фотографии.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Термины фотографии"
+            }
+          },
+          {
+            "id": "d1b7644fe2ae2b45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Термины дизайна.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Термины дизайна"
+            }
+          },
+          {
+            "id": "75b6ce1f8c42ac62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Айдентика.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Айдентика"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -197,17 +239,24 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "143c8cbe577f4877",
+  "active": "75b6ce1f8c42ac62",
   "lastOpenFiles": [
+    "Термины дизайна.md",
+    "Фотография.md",
+    "Protogen.md",
+    "Midjourney.md",
+    "Image Variations.md",
+    "Behance.md",
+    "Шедеврум.md",
+    "Термины фотографии.md",
+    "Глубина резкости.md",
+    "Айдентика.md",
     "Генерация изображений.md",
     "Нейросети для создания изображений.md",
     "Матрица компетенций для печатника (офсетной печати).md",
     "Матрица компетенций для оператора послепечатного оборудования.md",
     "Матрица компетенций для дизайнера-верстальщика.md",
     "Матрица компетенций.md",
-    "Кандинский.md",
-    "Глубина резкости.md",
-    "Midjourney.md",
-    "Шедеврум.md"
+    "Кандинский.md"
   ]
 }
